@@ -329,12 +329,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `name`, `img`, `imgCover`, `bio`, `location`, `website`) VALUES
-(1, 'Webkul', 'webkul@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 'Webkul', 'user-64cf8149c6f39.jpg', 'user-64cf8149c6f49.jpg', 'IT Services and IT Consulting Noida, Uttar Pradesh', 'webkul,noida', 'https://webkul.com/'),
-(2, 'vibhor', 'vibhor@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 'Vibhor Saini', 'user-64cf88d3c464e.jpg', 'user-64cf88d3c465d.jpg', 'Web Developer in Webblaze softtech', '302, E-193, Phase 8B, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar', 'https://vibhor-saini.github.io/PORTFOLIO./'),
-(3, 'VipinSahu', 'vipinsahu@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 'Vipin Sahu', 'user-64cf8c624b098.jpg', 'user-64cf8c624b0a9.png', 'Co-Founder, Webkul', 'webkul,noida', 'https://www.linkedin.com/in/vipinsahu/?originalSubdomain=in'),
-(4, 'NikitaJoshi', 'nikita@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 'Nikita Joshi', 'user-64cf8f1706800.jpg', 'user-64cf8f170680e.jpg', 'Software Quality Analyst at Webkul', 'webkul, H-28, ARV Park, Sector 63, Noida, Uttar Pradesh 201301', 'https://www.linkedin.com/in/nikita-joshi-005b8b175/'),
-(5, 'SakshiMishra', 'sakshi@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 'Sakshi Mishra', 'user-64cf9134dfe29.jpg', 'user-64cf9134dfe38.jpg', 'Sakshi Mishra ( Hiring for Php Developer and BDE)', 'Noida', 'https://www.linkedin.com/in/sakshi-mishra-hiring-for-php-developer-and-bde-604691148/'),
-(6, 'NarendraModi', 'modi@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 'Narendra Modi', 'user-64cf93fe97df8.jpg', 'user-64cf93fe97e05.jpg', 'Prime Minister Of India', 'Lok Kalyan Marg,Delhi', 'narendramodi.com');
+
+(1, 'vibhor', 'vibhor@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 'Vibhor Saini', 'user-64cf88d3c464e.jpg', 'user-64cf88d3c465d.jpg', 'Web Developer in Webblaze softtech', '302, E-193, Phase 8B, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar', 'https://vibhor-saini.github.io/PORTFOLIO./'),
+(2, 'NarendraModi', 'modi@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 'Narendra Modi', 'user-64cf93fe97df8.jpg', 'user-64cf93fe97e05.jpg', 'Prime Minister Of India', 'Lok Kalyan Marg,Delhi', 'narendramodi.com');
 
 --
 -- Indexes for dumped tables
